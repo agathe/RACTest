@@ -8,7 +8,6 @@
 
 #import "VMCreditCardViewController.h"
 #import "VMCreditCardViewModel.h"
-#import "UIMonthYearPicker.h"
 #import <QuartzCore/QuartzCore.h>
 
 @interface VMCreditCardViewController ()
@@ -130,8 +129,8 @@
             @"hlPadding" :@(8),
             @"cvvLPadding" :@(24),
             @"cvvPadding" :@(36),
-            @"titleTopPadding" :@(48),
-            @"titleBottomPadding" :@(68),
+            @"titleTopPadding" :@(38),
+            @"titleBottomPadding" :@(38),
             @"bottomPadding" :@(32),
             @"vP" :@(24),
             @"vlP" :@(8),
